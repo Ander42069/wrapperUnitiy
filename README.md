@@ -10,7 +10,8 @@ El bóton de Wallet esta pensado para vincular tu "cartera virtual de cryto" con
 
 Así mismo estas inmerso en un entorno 3d, Manteniendo "Click Derecho" del cursor ,y moviendo el ratón le puedes dar una checada. 
 
-
+## Youtube
+Video promocional---->https://youtu.be/zLDw3z4CrJM
 
 ## Tecnologias
 Unity WebGL--
