@@ -1,5 +1,5 @@
 # Crypto-Casino
-Es una aplicación que permite revivir la experiencia de una típica maquina traga monedas, ahora con CryptoCoins mediante la API Mirror World en Unity , date la vuelta unos años en el pasado y pruebala
+Es una aplicación que permite revivir la experiencia de una típica maquina traga monedas, ahora con CryptoCoins mediante la API Mirror World en Unity , date la vuelta unos años en el pasado y pruebala en :   https://juancarlossalcedo777.github.io/traga_p/
 
 ## INSTRUCCIONES
 
